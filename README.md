@@ -41,13 +41,13 @@ Busque por subdominios desativados, porem que ainda sejam alias reutilizaveis
 		    https://github.com/BlackCyber21/
 
 
-# 1.google.com is an alias for www3.l.google.com.
-# mail.google.com is an alias for googlemail.l.google.com.
-# api.google.com is an alias for api.l.google.com.
-# doc.google.com is an alias for writely.l.google.com.
-# documents.google.com is an alias for writely.l.google.com.
-# download.google.com is an alias for www2.l.google.com.
-# downloads.google.com is an alias for www2.l.google.com.
-# upload.google.com is an alias for large-uploads.l.google.com.
-# uploads.google.com is an alias for feedsftp.l.google.com.
-# web.google.com is an alias for www3.l.google.com.
+#### 1.google.com is an alias for www3.l.google.com.
+#### mail.google.com is an alias for googlemail.l.google.com.
+#### api.google.com is an alias for api.l.google.com.
+#### doc.google.com is an alias for writely.l.google.com.
+#### documents.google.com is an alias for writely.l.google.com.
+#### download.google.com is an alias for www2.l.google.com.
+#### downloads.google.com is an alias for www2.l.google.com.
+#### upload.google.com is an alias for large-uploads.l.google.com.
+#### uploads.google.com is an alias for feedsftp.l.google.com.
+#### web.google.com is an alias for www3.l.google.com.
